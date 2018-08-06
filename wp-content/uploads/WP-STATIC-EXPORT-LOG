@@ -1,0 +1,136 @@
+2018-08-03 03:24:52 POST EXPORT CLEANUP: complete
+2018-08-03 03:24:52 CLEANING WORKING FILES:
+2018-08-03 03:24:52 POST EXPORT CLEANUP: starting...
+2018-08-03 03:24:51 ZIP CREATED: Download at https://daronobrien.me/wp-content/uploads/wp-static-html-output-1-1533309852-admin.zip
+2018-08-03 03:24:48 CREATING ZIP FILE...
+2018-08-03 03:24:47 POST PROCESSING ARCHIVE DIR: ...
+2018-08-03 03:24:46 (RE)CREATING SYMLINK TO LATEST EXPORT FOLDER: /home4/daronob1/public_html/wp-content/uploads/latest-1
+2018-08-03 03:24:46 REMOVING SYMLINK: /home4/daronob1/public_html/wp-content/uploads/latest-1
+2018-08-03 03:24:45 CRAWLING SITE: 0 files remaining
+2018-08-03 03:24:45 SAVING URL: /wp-content/uploads/GeoLite2-Country.mmdb to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/uploads/GeoLite2-Country.mmdb
+2018-08-03 03:24:45 CRAWLED FILE: https://daronobrien.me/wp-content/uploads/GeoLite2-Country.mmdb
+2018-08-03 03:24:45 CRAWLING URL: https://daronobrien.me/wp-content/uploads/GeoLite2-Country.mmdb
+2018-08-03 03:24:44 CRAWLING SITE: 1 files remaining
+2018-08-03 03:24:44 SAVING URL: /minimal-work-place/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/minimal-work-place/index.html
+2018-08-03 03:24:44 CRAWLED FILE: https://daronobrien.me/minimal-work-place/
+2018-08-03 03:24:44 CRAWLING URL: https://daronobrien.me/minimal-work-place/
+2018-08-03 03:24:43 CRAWLING SITE: 2 files remaining
+2018-08-03 03:24:43 SAVING URL: /how-to-grow-flower/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/how-to-grow-flower/index.html
+2018-08-03 03:24:43 CRAWLED FILE: https://daronobrien.me/how-to-grow-flower/
+2018-08-03 03:24:43 CRAWLING URL: https://daronobrien.me/how-to-grow-flower/
+2018-08-03 03:24:42 CRAWLING SITE: 3 files remaining
+2018-08-03 03:24:42 SAVING URL: /new-version-of-keyboard/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/new-version-of-keyboard/index.html
+2018-08-03 03:24:42 CRAWLED FILE: https://daronobrien.me/new-version-of-keyboard/
+2018-08-03 03:24:41 CRAWLING URL: https://daronobrien.me/new-version-of-keyboard/
+2018-08-03 03:24:40 CRAWLING SITE: 4 files remaining
+2018-08-03 03:24:40 SAVING URL: /ferris-wheel-in-chicago/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/ferris-wheel-in-chicago/index.html
+2018-08-03 03:24:40 CRAWLED FILE: https://daronobrien.me/ferris-wheel-in-chicago/
+2018-08-03 03:24:40 CRAWLING URL: https://daronobrien.me/ferris-wheel-in-chicago/
+2018-08-03 03:24:39 CRAWLING SITE: 5 files remaining
+2018-08-03 03:24:39 SAVING URL: /organization-of-the-workspace/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/organization-of-the-workspace/index.html
+2018-08-03 03:24:39 CRAWLED FILE: https://daronobrien.me/organization-of-the-workspace/
+2018-08-03 03:24:39 CRAWLING URL: https://daronobrien.me/organization-of-the-workspace/
+2018-08-03 03:24:38 CRAWLING SITE: 6 files remaining
+2018-08-03 03:24:38 SAVING URL: /news-about-fashion/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/news-about-fashion/index.html
+2018-08-03 03:24:38 CRAWLED FILE: https://daronobrien.me/news-about-fashion/
+2018-08-03 03:24:38 CRAWLING URL: https://daronobrien.me/news-about-fashion/
+2018-08-03 03:24:37 CRAWLING SITE: 7 files remaining
+2018-08-03 03:24:37 SAVING URL: /minimal-pot-from-avc/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/minimal-pot-from-avc/index.html
+2018-08-03 03:24:37 CRAWLED FILE: https://daronobrien.me/minimal-pot-from-avc/
+2018-08-03 03:24:37 CRAWLING URL: https://daronobrien.me/minimal-pot-from-avc/
+2018-08-03 03:24:36 CRAWLING SITE: 8 files remaining
+2018-08-03 03:24:36 SAVING URL: /modern-architecture/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/modern-architecture/index.html
+2018-08-03 03:24:36 CRAWLED FILE: https://daronobrien.me/modern-architecture/
+2018-08-03 03:24:36 CRAWLING URL: https://daronobrien.me/modern-architecture/
+2018-08-03 03:24:35 CRAWLING SITE: 9 files remaining
+2018-08-03 03:24:35 SAVING URL: /live-for-live-music/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/live-for-live-music/index.html
+2018-08-03 03:24:35 CRAWLED FILE: https://daronobrien.me/live-for-live-music/
+2018-08-03 03:24:35 CRAWLING URL: https://daronobrien.me/live-for-live-music/
+2018-08-03 03:24:34 CRAWLING SITE: 10 files remaining
+2018-08-03 03:24:34 SAVING URL: /home/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/home/index.html
+2018-08-03 03:24:34 CRAWLED FILE: https://daronobrien.me/home/
+2018-08-03 03:24:33 CRAWLING URL: https://daronobrien.me/home/
+2018-08-03 03:24:32 CRAWLING SITE: 11 files remaining
+2018-08-03 03:24:32 SAVING URL: /portfolio/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/portfolio/index.html
+2018-08-03 03:24:32 CRAWLED FILE: https://daronobrien.me/portfolio/
+2018-08-03 03:24:32 CRAWLING URL: https://daronobrien.me/portfolio/
+2018-08-03 03:24:31 CRAWLING SITE: 12 files remaining
+2018-08-03 03:24:31 SAVING URL: /my-work/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/my-work/index.html
+2018-08-03 03:24:31 CRAWLED FILE: https://daronobrien.me/my-work/
+2018-08-03 03:24:31 CRAWLING URL: https://daronobrien.me/my-work/
+2018-08-03 03:24:30 CRAWLING SITE: 13 files remaining
+2018-08-03 03:24:30 SAVING URL: /resume/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/resume/index.html
+2018-08-03 03:24:30 CRAWLED FILE: https://daronobrien.me/resume/
+2018-08-03 03:24:30 CRAWLING URL: https://daronobrien.me/resume/
+2018-08-03 03:24:29 CRAWLING SITE: 14 files remaining
+2018-08-03 03:24:29 SAVING URL: /about-me/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/about-me/index.html
+2018-08-03 03:24:29 CRAWLED FILE: https://daronobrien.me/about-me/
+2018-08-03 03:24:29 CRAWLING URL: https://daronobrien.me/about-me/
+2018-08-03 03:24:28 CRAWLING SITE: 15 files remaining
+2018-08-03 03:24:28 SAVING URL: /services/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/services/index.html
+2018-08-03 03:24:28 CRAWLED FILE: https://daronobrien.me/services/
+2018-08-03 03:24:28 CRAWLING URL: https://daronobrien.me/services/
+2018-08-03 03:24:27 CRAWLING SITE: 16 files remaining
+2018-08-03 03:24:27 SAVING URL: /stories/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/stories/index.html
+2018-08-03 03:24:27 CRAWLED FILE: https://daronobrien.me/stories/
+2018-08-03 03:24:26 CRAWLING URL: https://daronobrien.me/stories/
+2018-08-03 03:24:25 CRAWLING SITE: 17 files remaining
+2018-08-03 03:24:25 SAVING URL: /portfolio-grid/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/portfolio-grid/index.html
+2018-08-03 03:24:25 CRAWLED FILE: https://daronobrien.me/portfolio-grid/
+2018-08-03 03:24:25 CRAWLING URL: https://daronobrien.me/portfolio-grid/
+2018-08-03 03:24:24 CRAWLING SITE: 18 files remaining
+2018-08-03 03:24:24 SAVING URL: /contact-2/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/contact-2/index.html
+2018-08-03 03:24:24 CRAWLED FILE: https://daronobrien.me/contact-2/
+2018-08-03 03:24:24 CRAWLING URL: https://daronobrien.me/contact-2/
+2018-08-03 03:24:23 CRAWLING SITE: 19 files remaining
+2018-08-03 03:24:23 SAVING URL: /about-me-2/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/about-me-2/index.html
+2018-08-03 03:24:23 CRAWLED FILE: https://daronobrien.me/about-me-2/
+2018-08-03 03:24:23 CRAWLING URL: https://daronobrien.me/about-me-2/
+2018-08-03 03:24:22 CRAWLING SITE: 20 files remaining
+2018-08-03 03:24:22 SAVING URL: /contact/ to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/contact/index.html
+2018-08-03 03:24:22 CRAWLED FILE: https://daronobrien.me/contact/
+2018-08-03 03:24:22 CRAWLING URL: https://daronobrien.me/contact/
+2018-08-03 03:24:21 CRAWLING SITE: 21 files remaining
+2018-08-03 03:24:21 EMPTY FILE ENCOUNTERED
+2018-08-03 03:24:21 CRAWLING URL: 
+2018-08-03 03:24:20 CRAWLING SITE: 22 files remaining
+2018-08-03 03:24:20 SAVING URL: /wp-content/themes/hired/rtl.css to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/themes/hired/rtl.css
+2018-08-03 03:24:20 CRAWLED FILE: https://daronobrien.me/wp-content/themes/hired/rtl.css
+2018-08-03 03:24:20 CRAWLING URL: https://daronobrien.me/wp-content/themes/hired/rtl.css
+2018-08-03 03:24:19 CRAWLING SITE: 23 files remaining
+2018-08-03 03:24:19 SAVING URL: /wp-content/themes/hired/style.css to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/themes/hired/style.css
+2018-08-03 03:24:19 CRAWLED FILE: https://daronobrien.me/wp-content/themes/hired/style.css
+2018-08-03 03:24:19 CRAWLING URL: https://daronobrien.me/wp-content/themes/hired/style.css
+2018-08-03 03:24:18 CRAWLING SITE: 24 files remaining
+2018-08-03 03:24:18 SAVING URL: /wp-content/themes/hired/screenshot.png to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/themes/hired/screenshot.png
+2018-08-03 03:24:18 CRAWLED FILE: https://daronobrien.me/wp-content/themes/hired/screenshot.png
+2018-08-03 03:24:18 CRAWLING URL: https://daronobrien.me/wp-content/themes/hired/screenshot.png
+2018-08-03 03:24:17 CRAWLING SITE: 25 files remaining
+2018-08-03 03:24:17 SAVING URL: /wp-content/themes/hired/license.txt to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/themes/hired/license.txt
+2018-08-03 03:24:17 CRAWLED FILE: https://daronobrien.me/wp-content/themes/hired/license.txt
+2018-08-03 03:24:17 CRAWLING URL: https://daronobrien.me/wp-content/themes/hired/license.txt
+2018-08-03 03:24:16 CRAWLING SITE: 26 files remaining
+2018-08-03 03:24:16 SAVING URL: /wp-content/themes/hired/readme.txt to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/themes/hired/readme.txt
+2018-08-03 03:24:16 CRAWLED FILE: https://daronobrien.me/wp-content/themes/hired/readme.txt
+2018-08-03 03:24:16 CRAWLING URL: https://daronobrien.me/wp-content/themes/hired/readme.txt
+2018-08-03 03:24:15 CRAWLING SITE: 27 files remaining
+2018-08-03 03:24:15 SAVING URL: /wp-content/themes/hired/README.md to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/wp-content/themes/hired/README.md
+2018-08-03 03:24:15 CRAWLED FILE: https://daronobrien.me/wp-content/themes/hired/README.md
+2018-08-03 03:24:15 CRAWLING URL: https://daronobrien.me/wp-content/themes/hired/README.md
+2018-08-03 03:24:14 CRAWLING SITE: 28 files remaining
+2018-08-03 03:24:14 SAVING URL: / to new path/home4/daronob1/public_html/wp-content/uploads/wp-static-html-output-1-1533309852-admin/index.html
+2018-08-03 03:24:14 CRAWLED FILE: https://daronobrien.me/
+2018-08-03 03:24:13 CRAWLING URL: https://daronobrien.me/
+2018-08-03 03:24:12 STARTING EXPORT: initial crawl list contains 29 files
+2018-08-03 03:24:12 STARTING EXPORT: STATIC EXPORT URL http://daronobrien.me.s3-website-us-west-1.amazonaws.com
+2018-08-03 03:24:12 STARTING EXPORT: VIA CLI? 
+2018-08-03 03:24:12 STARTING EXPORT: PLUGIN VERSION 5.1
+2018-08-03 03:24:12 STARTING EXPORT: WP ADDRESS https://daronobrien.me
+2018-08-03 03:24:12 STARTING EXPORT: WP HOME https://daronobrien.me
+2018-08-03 03:24:12 STARTING EXPORT: WP SITEURL https://daronobrien.me
+2018-08-03 03:24:12 STARTING EXPORT: WP URL https://daronobrien.me
+2018-08-03 03:24:12 STARTING EXPORT: WP VERSION 4.9.7
+2018-08-03 03:24:12 STARTING EXPORT: OS VERSION Linux box5469.bluehost.com 3.10.0-693.11.6.1.ELK.el6.x86_64 #1 SMP Tue Jan 23 10:30:30 MST 2018 x86_64
+2018-08-03 03:24:12 STARTING EXPORT: PHP MAX EXECUTION TIME 30
+2018-08-03 03:24:12 STARTING EXPORT: PHP VERSION 7.0.31
+2018-08-03 03:24:12 STARTING EXPORT2018-08-03 03:24:12
